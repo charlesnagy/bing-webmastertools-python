@@ -13,7 +13,7 @@ except ImportError:
 from urllib import urlencode
 
 __author__    = "Karoly 'Charles' Nagy"
-__copyright__ = "Copyright 2013, Karoly Nagy"
+__copyright__ = "Copyright 2015, Karoly Nagy"
 __licence__   = "GPL"
 __version__	  = "0.0.1"
 __contact__   = "dr.karoly.nagy@gmail.com"
