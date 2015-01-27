@@ -11,4 +11,4 @@ Usage:
 	_api.GetPageStats(siteUrl='http://www.amarqt.com')
 
 
-You can find me on [Twitter](https://twitter.com/charlesnagy "Charlesnagy Twitter"), [My Blog](http://charlesnagy.info/ "Charlesnagy.info") or [LinkedIn]("http://www.linkedin.com/in/nkaroly" "Károly Nagy - MySQL DBA")
+You can find me on [Twitter](https://twitter.com/charlesnagy "Charlesnagy Twitter"), [My Blog](http://charlesnagy.info/ "Charlesnagy.info") or [LinkedIn](http://www.linkedin.com/in/nkaroly "Károly Nagy - MySQL DBA")
